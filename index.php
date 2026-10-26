@@ -1,6 +1,5 @@
 <?php
 $pageTitle = "N+ Duality";
-$testMessage = "Server is Active";
 ?>
 
 <!DOCTYPE HTML>
@@ -9,14 +8,14 @@ $testMessage = "Server is Active";
 
 <head>
     <title><?= $pageTitle ?></title>
+    <link rel="stylesheet" href="src/css/master.css">
+    <link rel="stylesheet" href="src/css/classes.css">
 </head>
 
-<body>
-    <center>
-        <h1>
-            <?= $testMessage ?>
-        </h1>
-    </center>
+<body class="flex-center-col screen-full">
+    <div class="m-2 flex-center-col screen-80" id="master">
+
+    </div>
 </body>
 
 </html>
