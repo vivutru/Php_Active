@@ -1,8 +1,41 @@
+/* x o x o x [ Global ] x o x o x */
 body {
     padding: 0;
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* x o x o x [ Index.php ] x o x o x */
+
+
+/* Set master to flex center column class */
 #master {
-    background-color: red;
+    display: block;
+    background-color: gray;
+    gap: 1rem;
+}
+
+
+/* - - - - - - - - - ( Navigation )  */
+
+/* Set navi to flex row class */
+#navi {
+    gap: 6rem;
+    justify-content: center;
+}
+
+#navi a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#navi img {
+    background-color: blue;
+    width: 4rem;
+    height: 4rem;
 }
