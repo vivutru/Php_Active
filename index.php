@@ -1,8 +1,7 @@
 <?php
 $pageTitle = "N+ Duality";
-$content_data_title = "Hello World";
-$content_data_body = "Calculus is the branch of mathematics that studies continuous change, and is the principal precursor of modern mathematical analysis. Originally called infinitesimal calculus or the calculus of infinitesimals, it has two major branches, differential calculus and integral calculus. Differential calculus studies instantaneous rates of change and slopes of curves; integral calculus studies accumulation of quantities and areas under or between curves. 
-";
+$content_data_title = "Purpose";
+$content_data_body = "N+ Duality is an online calculator and learning resource hub dedicated to the topics of Calculus, Probability & Statistics, Discrete Mathematics & Algebra, Accounting and the fundementals of Mathematics. Documention on these topics, their calculators or formula sheets as well as any active work may be found on their respected pages. Feel free to contact us for recommendations or errors encoutered.";
 ?>
 
 <!DOCTYPE HTML>
