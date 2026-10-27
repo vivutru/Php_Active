@@ -17,7 +17,7 @@ $content_data_body = "A 'Hello, world' program is a simple computer program that
 
 <body class="flex-center-col screen-full">
 
-    <div id="master" class="flex-col m-2 screen-80 g-1">
+    <div id="master" class="flex-col screen-80 m-2 g-1 txt-primary">
 
         <!-- x o x [ Define navigation bar ] x o x -->
         <nav id="navi" class="flex-row">
@@ -42,11 +42,11 @@ $content_data_body = "A 'Hello, world' program is a simple computer program that
         <!-- x o x [ Define hero section ] x o x -->
         <section id="hero" class="flex-col">
             <img class="br-lg" src="">
-            <h1 class="mb-1"><?= $pageTitle ?></h1>
+            <h1 class="mb-1 txt-title"><?= $pageTitle ?></h1>
         </section>
 
         <!-- x o x [ Define content section ] x o x -->
-        <section id="content" class="flex-row">
+        <section id="content" class="flex-row ml-8">
             <div id="content_links" class="flex-col">
 
                 <ul class="flex-row">

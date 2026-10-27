@@ -1,3 +1,32 @@
+/* x o x o x [ Font classes ] x o x o x */
+
+@font-face {
+    font-family: Comfortaa;
+    src: url(/assets/fonts/Comfortaa-Regular.ttf);
+}
+
+.txt-primary {
+    font-family: Comfortaa, Arial, Helvetica, sans-serif
+}
+
+@font-face {
+    font-family: CodeA;
+    src: url(/assets/fonts/CODE-Bold.otf);
+}
+
+.txt-title {
+    font-family: CodeA, Arial, Helvetica, sans-serif
+}
+
+@font-face {
+    font-family: CodeB;
+    src: url(/assets/fonts/CODE-Light.otf);
+}
+
+.txt-titleAlt {
+    font-family: CodeB, Arial, Helvetica, sans-serif
+}
+
 /* x o x o x [ Dimension classes ] x o x o x */
 .screen-full {
     width: 100dvw;
@@ -54,6 +83,16 @@
     margin: 2rem;
 }
 
+.m-4 {
+    margin: 4rem;
+}
+
+.m-4 {
+    margin: 8rem;
+}
+
+
+
 
 .ml-0 {
     margin-inline: 0;
@@ -67,6 +106,16 @@
     margin-inline: 2rem;
 }
 
+.ml-4 {
+    margin-inline: 4rem;
+}
+
+.ml-8 {
+    margin-inline: 8rem;
+}
+
+
+
 .mb-0 {
     margin-block: 0;
 }
@@ -77,6 +126,14 @@
 
 .mb-2 {
     margin-block: 2rem;
+}
+
+.mb-4 {
+    margin-block: 4rem;
+}
+
+.mb-8 {
+    margin-block: 8rem;
 }
 
 

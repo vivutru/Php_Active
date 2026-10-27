@@ -19,7 +19,7 @@ li {
 
 
 #master {
-    background-color: gray;
+    display: block;
 }
 
 
@@ -29,6 +29,7 @@ li {
 #navi {
     gap: 6rem;
     justify-content: center;
+    margin-bottom: 2rem;
 }
 
 #navi a {
@@ -81,5 +82,5 @@ li {
 }
 
 #content_data {
-    width: 60%;
+    width: 50%;
 }
