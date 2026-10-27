@@ -1,4 +1,6 @@
 /* x o x o x [ Global ] x o x o x */
+
+/* Set body to flex center column class */
 body {
     padding: 0;
     margin: 0;
@@ -9,14 +11,15 @@ a {
     color: inherit;
 }
 
+li {
+    list-style: none;
+}
+
 /* x o x o x [ Index.php ] x o x o x */
 
 
-/* Set master to flex center column class */
 #master {
-    display: block;
     background-color: gray;
-    gap: 1rem;
 }
 
 
@@ -32,10 +35,51 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 0.2rem;
 }
 
 #navi img {
     background-color: blue;
     width: 4rem;
     height: 4rem;
+}
+
+
+
+/* - - - - - - - - - ( Hero )  */
+
+#hero img {
+    background-color: blue;
+    width: 100%;
+    height: 40dvh;
+}
+
+#hero h1 {
+    align-self: self-end;
+}
+
+/* - - - - - - - - - ( Content )  */
+
+#content {
+    width: 80dvw;
+    gap: 8rem;
+}
+
+
+#content_links a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+#content_links img {
+    width: 3rem;
+    height: 3rem;
+    margin-inline: 2rem;
+    background-color: red;
+}
+
+#content_data {
+    width: 60%;
 }
