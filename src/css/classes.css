@@ -83,16 +83,6 @@
     margin: 2rem;
 }
 
-.m-4 {
-    margin: 4rem;
-}
-
-.m-4 {
-    margin: 8rem;
-}
-
-
-
 
 .ml-0 {
     margin-inline: 0;
@@ -106,15 +96,6 @@
     margin-inline: 2rem;
 }
 
-.ml-4 {
-    margin-inline: 4rem;
-}
-
-.ml-8 {
-    margin-inline: 8rem;
-}
-
-
 
 .mb-0 {
     margin-block: 0;
@@ -127,15 +108,6 @@
 .mb-2 {
     margin-block: 2rem;
 }
-
-.mb-4 {
-    margin-block: 4rem;
-}
-
-.mb-8 {
-    margin-block: 8rem;
-}
-
 
 
 

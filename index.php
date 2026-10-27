@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "N+ Duality";
 $content_data_title = "Hello World";
-$content_data_body = "A 'Hello, world' program is a simple computer program that outputs the message 'Hello, world' to a display device, often used to illustrate the basic syntax of a programming language. It is typically the first program written by beginners learning to code.
+$content_data_body = "Calculus is the branch of mathematics that studies continuous change, and is the principal precursor of modern mathematical analysis. Originally called infinitesimal calculus or the calculus of infinitesimals, it has two major branches, differential calculus and integral calculus. Differential calculus studies instantaneous rates of change and slopes of curves; integral calculus studies accumulation of quantities and areas under or between curves. 
 ";
 ?>
 
@@ -17,7 +17,7 @@ $content_data_body = "A 'Hello, world' program is a simple computer program that
 
 <body class="flex-center-col screen-full">
 
-    <div id="master" class="flex-col screen-80 m-2 g-1 txt-primary">
+    <div id="master" class="flex-col screen-90 txt-primary">
 
         <!-- x o x [ Define navigation bar ] x o x -->
         <nav id="navi" class="flex-row">
@@ -41,12 +41,12 @@ $content_data_body = "A 'Hello, world' program is a simple computer program that
 
         <!-- x o x [ Define hero section ] x o x -->
         <section id="hero" class="flex-col">
-            <img class="br-lg" src="">
+            <img src="assets/images/cut2.png">
             <h1 class="mb-1 txt-title"><?= $pageTitle ?></h1>
         </section>
 
         <!-- x o x [ Define content section ] x o x -->
-        <section id="content" class="flex-row ml-8">
+        <section id="content" class="flex-row">
             <div id="content_links" class="flex-col">
 
                 <ul class="flex-row">
