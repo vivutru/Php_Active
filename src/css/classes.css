@@ -132,3 +132,17 @@
 .br-lg {
     border-radius: 100px;
 }
+
+/* x o x o x [ Activity Classes ] x o x o x */
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.p-events-off {
+    pointer-events: none;
+}

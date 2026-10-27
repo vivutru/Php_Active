@@ -21,24 +21,39 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
         <!-- x o x [ Define navigation bar ] x o x -->
         <nav id="navi" class="flex-row">
             <a href="">
-                <img src="assets/icons/black/home.svg" class="br-md">
+                <span>
+                    <img src="assets/icons/black/home.svg" class="br-md show">
+                    <img src="assets/icons/color/home.svg" class="br-md hide">
+                </span>
                 <span>Home</span>
             </a>
             <a href="">
-                <img src="assets/icons/black/notes.svg" class="br-md">
+                <span>
+                    <img src="assets/icons/black/notes.svg" class="br-md show">
+                    <img src="assets/icons/color/notes.svg" class="br-md hide">
+                </span>
                 <span>Notes</span>
             </a>
             <a href="">
-                <img src="assets/icons/black/calculator.svg" class="br-md">
+                <span>
+                    <img src="assets/icons/black/calculator.svg" class="br-md show">
+                    <img src="assets/icons/color/calculator.svg" class="br-md hide">
+                </span>
                 <span>Calculators</span>
             </a>
             <a href="">
-                <img src="assets/icons/black/save.svg" class="br-md">
+                <span>
+                    <img src="assets/icons/black/save.svg" class="br-md show">
+                    <img src="assets/icons/color/save.svg" class="br-md hide">
+                </span>
                 <span>Saved</span>
             </a>
             <a href="">
-                <img src="assets/icons/black/contact.svg" class="br-md">
-                <span>Contact</span>
+                <span>
+                    <img src="assets/icons/black/contact.svg" class="br-md show">
+                    <img src="assets/icons/color/contact.svg" class="br-md hide">
+                    <span>Contact</span>
+                </span>
             </a>
         </nav>
 
@@ -55,13 +70,19 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
                 <ul class="flex-row">
                     <li>
                         <a href="">
-                            <img src="assets/icons/black/general.svg" class="br-md">
+                            <span>
+                                <img src="assets/icons/black/general.svg" class="br-md show">
+                                <img src="assets/icons/color/general.svg" class="br-md hide">
+                            </span>
                             <span>General</span>
                         </a>
                     </li>
                     <li>
                         <a href="">
-                            <img src="assets/icons/black/accounting.svg" class="br-md">
+                            <span>
+                                <img src="assets/icons/black/accounting.svg" class="br-md show">
+                                <img src="assets/icons/color/accounting.svg" class="br-md hide">
+                            </span>
                             <span>Accounts</span>
                         </a>
                     </li>
@@ -70,13 +91,19 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
                 <ul class="flex-row">
                     <li>
                         <a href="">
-                            <img src="assets/icons/black/probability.svg" class="br-md">
+                            <span>
+                                <img src="assets/icons/black/probability.svg" class="br-md show">
+                                <img src="assets/icons/color/probability.svg" class="br-md hide">
+                            </span>
                             <span>Probability</span>
                         </a>
                     </li>
                     <li>
                         <a href="">
-                            <img src="assets/icons/black/calculus.svg" class="br-md">
+                            <span>
+                                <img src="assets/icons/black/calculus.svg" class="br-md show">
+                                <img src="assets/icons/color/calculus.svg" class="br-md hide">
+                            </span>
                             <span>Calculus</span>
                         </a>
                     </li>

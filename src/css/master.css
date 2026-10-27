@@ -44,6 +44,17 @@ li {
 }
 
 
+#navi a:hover .hide {
+    display: block;
+}
+
+#navi a:hover .show {
+    display: none;
+}
+
+
+
+
 
 /* - - - - - - - - - ( Hero )  */
 #hero {
@@ -83,6 +94,18 @@ li {
     align-items: center;
     gap: 0.2rem;
 }
+
+#content_links a:hover .hide {
+    display: block;
+}
+
+#content_links a:hover .show {
+    display: none;
+}
+
+
+
+
 
 #content_links img {
     width: 2.5rem;
