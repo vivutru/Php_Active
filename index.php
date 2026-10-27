@@ -51,14 +51,14 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
                 <ul class="flex-row">
                     <li>
                         <a href="">
-                            <img src="" class="br-md">
-                            <span>link</span>
+                            <img src="assets/icons/black/general.svg" class="br-md">
+                            <span>General</span>
                         </a>
                     </li>
                     <li>
                         <a href="">
-                            <img src="" class="br-md">
-                            <span>link</span>
+                            <img src="assets/icons/black/accounting.svg" class="br-md">
+                            <span>Accounts</span>
                         </a>
                     </li>
                 </ul>
@@ -66,14 +66,14 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
                 <ul class="flex-row">
                     <li>
                         <a href="">
-                            <img src="" class="br-md">
-                            <span>link</span>
+                            <img src="assets/icons/black/probability.svg" class="br-md">
+                            <span>Probability</span>
                         </a>
                     </li>
                     <li>
                         <a href="">
-                            <img src="" class="br-md">
-                            <span>link</span>
+                            <img src="assets/icons/black/calculus.svg" class="br-md">
+                            <span>Calculus</span>
                         </a>
                     </li>
                 </ul>
