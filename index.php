@@ -36,6 +36,10 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
                 <img src="" class="br-md">
                 <span>link</span>
             </a>
+            <a href="">
+                <img src="" class="br-md">
+                <span>link</span>
+            </a>
         </nav>
 
         <!-- x o x [ Define hero section ] x o x -->
