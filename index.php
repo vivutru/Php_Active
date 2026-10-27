@@ -21,24 +21,24 @@ $content_data_body = "N+ Duality is an online calculator and learning resource h
         <!-- x o x [ Define navigation bar ] x o x -->
         <nav id="navi" class="flex-row">
             <a href="">
-                <img src="" class="br-md">
-                <span>link</span>
+                <img src="assets/icons/black/home.svg" class="br-md">
+                <span>Home</span>
             </a>
             <a href="">
-                <img src="" class="br-md">
-                <span>link</span>
+                <img src="assets/icons/black/notes.svg" class="br-md">
+                <span>Notes</span>
             </a>
             <a href="">
-                <img src="" class="br-md">
-                <span>link</span>
+                <img src="assets/icons/black/calculator.svg" class="br-md">
+                <span>Calculators</span>
             </a>
             <a href="">
-                <img src="" class="br-md">
-                <span>link</span>
+                <img src="assets/icons/black/save.svg" class="br-md">
+                <span>Saved</span>
             </a>
             <a href="">
-                <img src="" class="br-md">
-                <span>link</span>
+                <img src="assets/icons/black/contact.svg" class="br-md">
+                <span>Contact</span>
             </a>
         </nav>
 
