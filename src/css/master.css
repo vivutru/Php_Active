@@ -1,4 +1,13 @@
 /* x o x o x [ Global ] x o x o x */
+:root {
+    --primary: #231f20;
+    --ac1: #ee7564;
+    --ac2: #a8ccdc;
+    --ac3: #ffe78b;
+    --ac4: #3ab54a;
+    --ac5: #a98fe0;
+}
+
 
 /* Set body to flex center column class */
 body {
